@@ -2,6 +2,8 @@
 
 Bienvenue dans le répertoire du challenge de data science pour l'optimisation du contrôle du stationnement, développé en collaboration avec Egis et Datacraft. Ce projet a pour objectif d'analyser et d'optimiser l'exploitation des contrôles de stationnement sur voirie dans plusieurs villes, en France et à l'international.
 
+Voici le lien de la compétition : https://challengedata.ens.fr/challenges/163
+
 ## Contexte
 
 Egis est un groupe international de conseil, d'ingénierie et d'exploitation, présent dans plus de 100 pays, intervenant dans divers secteurs tels que les infrastructures de transport, le bâtiment, l'eau, l'environnement et l'énergie.
